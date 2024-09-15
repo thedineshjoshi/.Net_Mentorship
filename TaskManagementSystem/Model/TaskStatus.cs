@@ -1,8 +1,9 @@
 ﻿namespace TaskManagementSystem.Model
 {
-    public class TaskStatus
+    public enum TaskStatus
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
+        ToDo,
+        InProgress,
+        Done
     }
 }

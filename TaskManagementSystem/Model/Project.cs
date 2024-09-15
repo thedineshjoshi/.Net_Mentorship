@@ -7,10 +7,10 @@
         public string Description { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
-        //public List<Task> Tasks { get; set; }
+
+        public Guid CreatedByUserId { get; set; }
         public User CreatedBy { get; set; }
-        //public List<User> TeamMembers { get; set; }
-
-
+        public ICollection<New_Task> Tasks { get; set; } 
+        public ICollection<User> TeamMembers { get; set; }
     }
 }

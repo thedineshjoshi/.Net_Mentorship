@@ -134,3 +134,4 @@ D:\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagem
 D:\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
 D:\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
 D:\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
+D:\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.sourcelink.json

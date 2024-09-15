@@ -43,7 +43,6 @@ namespace TaskManagementSystem.Controllers
                 Email = user.LastName,
                 Username = user.Username,
                 PasswordHash = user.PasswordHash,
-                Role = user.Role,
                 CreatedAt = DateTime.UtcNow,
                 LastLogin = DateTime.UtcNow
                 
